@@ -10,7 +10,8 @@ To include TestUtils on your project, just add TestUtils.jar on its libraries
 
     import com.testapp.testutils.*;
 
-Currently developed:
+## Currently developed ##
+
 - com.testapp.testutils.Debugator → The main class. It hosts methods which
 can help you debugging your application.
 - com.testapp.testutils.Debugator.kInstantiator → A control variable. The
@@ -19,5 +20,11 @@ tor.kController. Calling kController returns you the state of the kInstantiator
 variable. With the 'true' parameter, it sets the variable to false. To avoid
 that, use the 'false' parameter.
 
-Further help:
+## Further help ##
+
 We're on the #testutils channel, at Freenode.
+
+## Source ##
+
+The source of the TestUtils JAR file is under the src folder.
+
