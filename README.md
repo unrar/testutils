@@ -1,4 +1,6 @@
-****************** TestUtils.java v0.13 *****************
+TestUtils.java v0.13
+-------------------
+
 TestUtils (a.k.a TestUtils.java) is an actively developed class library for
 Java. It features methods for debugging under the Debugator class, and will 
 feature more utilities in newer releases.
